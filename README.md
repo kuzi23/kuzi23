@@ -1,0 +1,26 @@
+
+![Software Engineering](Banner.gif)
+
+# 🐣 42 Piscine Student
+
+### Piscine Modules
+| [Piscine Overview](#) | [C00](#) | [C01](#) | [C02](#) | [C03](#) | [C04](#) | [C05](#) | [C06](#) | [C07](#) |
+
+### Piscine Exams
+| [Piscine Exam Overview](#) | [Level 0](#) | [Level 1](#) | [Level 2](#) | [Level 3](#) |
+
+---
+
+# 🐧 42 Common Core Student
+
+### Common Core Projects
+
+| **Guide**                     | **Circle 0**        | **Circle 1**       | **Circle 2**       | **Circle 3**       | **Circle 4**        | **Circle 5**      | **Circle 6**  |
+|--------------------------------|---------------------|--------------------|--------------------|--------------------|---------------------|-------------------|---------------|
+| [Common Core Overview](#)     | [Libft](https://github.com/kuzi23/libft)          | [Born2BeRoot](#)   | [MiniTalk](https://github.com/kuzi23/Minitalk)      | [Philosophers](#)  | [NetPractice](#)    | [Inception](#)    | [Transcend](#) |
+|                                |          | [Printf](https://github.com/kuzi23/ft_printf)         | [So_Long](https://github.com/kuzi23/so_long)       | [Minishell](#)     | [Cub3D](#)          | [IRC](#)          |               |
+|                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](#)    |                   |               |
+
+### Common Core Exams
+| [Common Core Exams Overview](#) | [Exam Rank 02](#) | [Exam Rank 03](#) | [Exam Rank 04](#) | [Exam Rank 05](#) | [Exam Rank 06](#) |
+
