@@ -20,7 +20,3 @@
 | [Common Core Overview](#)     | [Libft](https://github.com/kuzi23/libft)          | [Born2BeRoot](#)   | [MiniTalk](https://github.com/kuzi23/Minitalk)      | [Philosophers](#)  | [NetPractice](#)    | [Inception](#)    | [Transcend](#) |
 |                                |          | [Printf](https://github.com/kuzi23/ft_printf)         | [So_Long](https://github.com/kuzi23/so_long)       | [Minishell](#)     | [Cub3D](#)          | [IRC](#)          |               |
 |                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](#)    |                   |               |
-
-### Common Core Exams
-| [Common Core Exams Overview](#) | [Exam Rank 02](#) | [Exam Rank 03](#) | [Exam Rank 04](#) | [Exam Rank 05](#) | [Exam Rank 06](#) |
-
