@@ -22,4 +22,4 @@
 |                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](#)    |                   |               |
 
 # 🐧 Side Project and Contributions
-| [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System](#) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| 
+| [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System]([#](https://github.com/kuzi23/Shop-Management-System) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| 
