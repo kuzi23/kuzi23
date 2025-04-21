@@ -4,8 +4,7 @@
 # 🐣 42 Piscine Student
 
 ### Piscine Modules
-| [Piscine Overview](#) | [C00](#) | [C01](#) | [C02](#) | [C03](#) | [C04](#) | [C05](#) | [C06](#) | [C07](#) |
-
+| [Piscine Overview](#) | [C00](#) | [C01](#) | [C02](#) | [C03](#) | [C04](#) | [C05](#) | [C06](#) | [C07](#) |lea
 ### Piscine Exams
 | [Piscine Exam Overview](#) | [Level 0](#) | [Level 1](#) | [Level 2](#) | [Level 3](#) |
 
@@ -22,4 +21,4 @@
 |                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](#)    |                   |               |
 
 # 🐧 Side Project and Contributions
-| [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System](https://github.com/kuzi23/Shop-Management-System-) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| 
+| [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System](https://github.com/kuzi23/Shop-Management-System-) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| [Azure-functions-apim](https://github.com/kuzi23/RestAPI_azureFunctions)
