@@ -4,7 +4,7 @@
 # 🐣 42 Piscine Student
 
 ### Piscine Modules
-| [Piscine Overview](#) | [C00](#) | [C01](#) | [C02](#) | [C03](#) | [C04](#) | [C05](#) | [C06](#) | [C07](#) |lea
+| [Piscine Overview](#) | [C00](#) | [C01](#) | [C02](#) | [C03](#) | [C04](#) | [C05](#) | [C06](#) | [C07](#) |
 ### Piscine Exams
 | [Piscine Exam Overview](#) | [Level 0](#) | [Level 1](#) | [Level 2](#) | [Level 3](#) |
 
