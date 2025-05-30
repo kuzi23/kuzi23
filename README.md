@@ -22,3 +22,6 @@
 
 # 🐧 Side Project and Contributions
 | [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System](https://github.com/kuzi23/Shop-Management-System-) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| [RestAPI_azureFunctions](https://github.com/kuzi23/RestAPI_azureFunctions)| [Kubernetes](https://github.com/kuzi23/Kubernetes)
+
+# 🐧 Devops and Cloud Projects
+[RestAPI_azureFunctions](https://github.com/kuzi23/RestAPI_azureFunctions)| [Kubernetes](https://github.com/kuzi23/Kubernetes) |
