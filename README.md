@@ -18,7 +18,7 @@
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|---------------------|-------------------|---------------|
 | [Common Core Overview](#)     | [Libft](https://github.com/kuzi23/libft)          | [Born2BeRoot](#)   | [MiniTalk](https://github.com/kuzi23/Minitalk)      | [Philosophers](https://github.com/kuzi23/Philosophers)  | [NetPractice](#)    | [Inception](#)    | [Transcend](#) |
 |                                |          | [Printf](https://github.com/kuzi23/ft_printf)         | [So_Long](https://github.com/kuzi23/so_long)       | [Minishell](https://github.com/kuzi23/microshell)     | [Cub3D](https://github.com/kuzi23/cube3D)          | [IRC](#)          |               |
-|                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](#)    |                   |               |
+|                                |   | [Get_Next_Line](https://github.com/kuzi23/get_next_line)  | [Push_Swap](https://github.com/kuzi23/push_swap)     |                    | [C++ Modules](https://github.com/kuzi23/c-Modules.git)    |                   |               |
 
 # 🐧 Side Project and Contributions
 | [Projects](#) | [AID-IN-CARE](https://github.com/kuzi23/AID-IN-CARE) | [Shop-Management-System](https://github.com/kuzi23/Shop-Management-System-) | [Student-Result-Management-System-SRMS](https://github.com/kuzi23/Student-Result-Management-System-SRMS-Student-Result-Management-System-SRMS-)| [RestAPI_azureFunctions](https://github.com/kuzi23/RestAPI_azureFunctions)| [Kubernetes](https://github.com/kuzi23/Kubernetes)
